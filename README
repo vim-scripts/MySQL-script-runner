@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=420
+
+MySQL scripts that allows you to run SQL scripts in mysql console by pressing F9.
+
+You can add this plugin to handle *.SQL file type.
